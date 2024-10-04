@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333333;
+}
+
+h1 {
+    text-align: center;
+    color: #4CAF50;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 80%;
+    background-color: #ffffff;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 12px;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+pre {
+    background-color: #f9f9f9;
+    padding: 10px;
+    overflow-x: auto;
+    font-size: 14px;
+}
